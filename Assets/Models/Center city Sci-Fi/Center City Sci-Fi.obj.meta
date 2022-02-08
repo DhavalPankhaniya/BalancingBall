@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: a74e65f4c1cc4a04d9563d94eb28c988
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: default
+    100004: mesh01
+    400000: //RootNode
+    400002: default
+    400004: mesh01
+    2100000: default_tubes
+    2100002: default_tubes_city_base.2
+    2100004: default_tubes_city_base.2_1
+    2100006: default_tubes_city_base.2_2
+    2100008: default_glass
+    2100010: default_lamp_poles
+    2100012: default_lights
+    2100014: default_Area
+    2100016: default_floor
+    2100018: default_city_base
+    2100020: default_access
+    2100022: default_glass_city_base.2
+    2100024: default_lamp_poles_city_base.2
+    2100026: default_lights_city_base.2
+    2100028: default_Area_city_base.2
+    2100030: default_floor_city_base.2
+    2100032: default_city_base_city_base.2
+    2100034: default_access_city_base.2
+    2100036: default_glass_city_base.2_1
+    2100038: default_lamp_poles_city_base.2_1
+    2100040: default_lights_city_base.2_1
+    2100042: default_Area_city_base.2_1
+    2100044: default_floor_city_base.2_1
+    2100046: default_city_base_city_base.2_1
+    2100048: default_access_city_base.2_1
+    2100050: default_glass_city_base.2_2
+    2100052: default_lamp_poles_city_base.2_2
+    2100054: default_lights_city_base.2_2
+    2100056: default_Area_city_base.2_2
+    2100058: default_floor_city_base.2_2
+    2100060: default_city_base_city_base.2_2
+    2100062: default_access_city_base.2_2
+    2100064: default_sign_mult
+    2100066: default_sign2
+    2100068: default_sign3
+    2100070: default_sign4
+    2100072: default_sign5
+    2100074: default_sign6
+    2100076: default_sign7
+    2100078: default_sign8
+    2100080: default_sign9
+    2100082: default_sign10
+    2100084: default_holders
+    2100086: default_sign_mult_1
+    2100088: default_sign2_sign_mult
+    2100090: default_sign3_sign_mult
+    2100092: default_sign4_sign_mult
+    2100094: default_sign5_sign_mult
+    2100096: default_sign6_sign_mult
+    2100098: default_sign7_sign_mult
+    2100100: default_sign8_sign_mult
+    2100102: default_sign9_sign_mult
+    2100104: default_sign10_sign_mult
+    2100106: default_holders_sign_mult
+    2100108: default_city_bldgs.2
+    2100110: default
+    2100112: default_water_canal
+    2100114: default_city_base.2
+    2100116: default_water_canal_city_base.2
+    2100118: default_city_base.2_1
+    2100120: default_water_canal_city_base.2_1
+    2100122: default_city_base.2_2
+    2100124: default_water_canal_city_base.2_2
+    2300000: default
+    2300002: mesh01
+    3300000: default
+    3300002: mesh01
+    4300000: default
+    4300002: mesh01
+    6400000: default
+    6400002: mesh01
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
